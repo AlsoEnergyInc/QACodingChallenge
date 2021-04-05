@@ -10,7 +10,7 @@ Coding and test plan challenges for QA candidates
 
 ___
 ## Challenge 1. Test a static HTML page
-Using any python test framework, write a test that makes sure that https://www.google.com/ is up. The goal is not to test the content of the page but rather make sure that the page is available.
+Write a test that makes sure that https://www.google.com/ is up. The goal is not to test the content of the page but rather make sure that the page is available. You can use any test framework (i.e. pytest or TestNG). We would like to see your best practices when you write automated tests.
 
 * Provide instructions how to run your test. Part of this assignment is to see how you would hand off *production* code to your fellow engineers.
 * Your solution will be reviewed by the engineers you would be working with if you joined Also Energy. We are interested in seeing your real-world design, coding, and testing skills.
